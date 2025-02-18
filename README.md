@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Agbaka Daniel Ugonna (Big Dreams Web3)
 
-<!--
-**italiancode/Italiancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Web3 Developer & Blockchain Enthusiast** 🚀  
 
-Here are some ideas to get you started:
+💡 **What I Do:**  
+- Building innovative **Web3 solutions** on **Solana** & **EVM chains**  
+- Developing **DeFi** and **crypto payment platforms**  
+- Creating **AI-powered blockchain analytics tools**  
+- Crafting **scalable and user-friendly apps**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Ask me about:**  
+Solana, Rust, Solidity, TypeScript, JavaScript, PHP, Next.js, Smart Contracts, DeFi, Blockchain Security, Web3 APIs  
+
+📫 **How to reach me:**  
+[Email](99craftson@gmail.com) | [X Twitter](https://twitter.com/0xbigdream)  
+
+### 🌐 Connect with me:  
+[X Twitter](https://twitter.com/0xbigdream) | [LinkedIn](https://linkedin.com/)  
+
+### ⚙️ Languages & Tools:  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
