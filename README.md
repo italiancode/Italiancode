@@ -12,7 +12,7 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 Solana, Rust, Solidity, TypeScript, JavaScript, PHP, Next.js, Smart Contracts, DeFi, Blockchain Security, Web3 APIs  
 
 📫 **How to reach me:**  
-[Email](99craftson@gmail.com) | [X Twitter](https://twitter.com/0xbigdream)  
+[Email](mailto:99craftson@gmail.com) | [X Twitter](https://twitter.com/0xbigdream)  
 
 ### 🌐 Connect with me:  
 [X Twitter](https://twitter.com/0xbigdream) | [LinkedIn](https://linkedin.com/)  
@@ -26,7 +26,7 @@ Solana, Rust, Solidity, TypeScript, JavaScript, PHP, Next.js, Smart Contracts, D
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=firebase&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
