@@ -8,9 +8,6 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 - Creating **AI-powered blockchain analytics tools**  
 - Crafting **scalable and user-friendly apps**  
 
-💬 **Ask me about:**  
-Solana, Rust, Solidity, TypeScript, JavaScript, PHP, Next.js, Smart Contracts, DeFi, Blockchain Security, Web3 APIs  
-
 📫 **How to reach me:**  
 [Email](mailto:99craftson@gmail.com) | [X Twitter](https://twitter.com/0xbigdream)  
 
