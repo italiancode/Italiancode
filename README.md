@@ -38,6 +38,6 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 ---
 
 ## 🧩 Featured Projects
-- 🥕 [**CarrotDEX**](https://carrot.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans)  
+- 🥕 [**CarrotDEX**](https://carrotdex.xyz): Smart DEX aggregator on MegaETH with point rewards system (Serans)  
 - 🌉 [**Framp.xyz**](https://framp.xyz): Fiat ↔ Crypto ramp platform for the African market
 - 
