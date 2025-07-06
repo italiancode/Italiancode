@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Agbaka Daniel Ugonna (aka **Big Dreams Web3**)
 
-A passionate **Web3 developer**, **Move smart contract engineer**, and builder of tools that push the boundaries of **decentralized payments**, **DEX aggregation**, and **DeFi innovation** in emerging ecosystems like **MegaETH** and **OneChain**. 🧠🔥
+A passionate **Web3 Developer & Blockchain Enthusiast** 🚀  
 
 ---
 
