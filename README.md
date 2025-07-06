@@ -10,7 +10,7 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 - 🥕 Lead dev behind [**CarrotDEX**](https://carrotdex.xyz) — a DEX aggregator on MegaETH
 - 🛠️ Backend dev for [**Framp.xyz**](https://framp.xyz) — fiat↔crypto ramp for Africa
 - 📦 Build tools using **Firebase**, **Next.js**, **lit-html**, and **Solidity**
-- 🧠 Open-source contributor and member of [SuperTeamNG](https://x.com/SuperteamNG)
+- 🧠 Contributor and member of [SuperTeamNG](https://x.com/SuperteamNG)
 
 ---
 
