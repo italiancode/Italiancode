@@ -17,7 +17,7 @@ A passionate **Web3 Developer & Blockchain Enthusiast** 🚀
 ## 📫 How to Reach Me
 
 - 🐦 [Twitter/X @0xbigdream](https://x.com/0xbigdream)  
-- 📧 [Email](mailto:99craftson@gmail.com)  
+- 📧 [Email: 99craftson@gmail.com](mailto:99craftson@gmail.com)  
 ---
 
 ## ⚙️ Languages & Tools
